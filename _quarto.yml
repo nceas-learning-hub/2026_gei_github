@@ -52,7 +52,20 @@ website:
     contents:
       - index.qmd # preface
       # START SESSIONS
-      # SESSION_LINKS
+      - section: "Setup"
+        contents:
+        - s01_r_git_install_guide.qmd
+        - s02_git_setup.qmd
+      - section: "Basics"
+        contents:
+        - s03_github_introduction.qmd
+        - s04_github_collaboration.qmd
+        - s05_github_project_management.qmd
+        - s06_lecture_github_for_proj_mgmt.qmd
+      - section: "Advanced"
+        contents:
+        - s07_github_publishing.qmd
+        - s08_git_advanced_git_github.qmd
       # END SESSIONS
 
   page-footer:
