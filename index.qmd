@@ -1,5 +1,5 @@
 ---
-title: Gulf Ecosystem Initiative: Git/GitHub Resources
+title: "Gulf Ecosystem Initiative: Git/GitHub Resources"
 format:
   theme-html:
     toc: false
