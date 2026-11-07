@@ -7,6 +7,6 @@
 .DS_Store
 .quarto
 # ignore docs/ rendered locally; GHA will publish to remote gh-pages
-docs/
+docs/*
 # ignore git_diff.txt potentially created by check_diffs() function
 git_diff.txt
