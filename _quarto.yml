@@ -61,7 +61,6 @@ website:
         - s03_github_introduction.qmd
         - s04_github_collaboration.qmd
         - s05_github_project_management.qmd
-        - s06_lecture_github_for_proj_mgmt.qmd
       - section: "Advanced"
         contents:
         - s07_github_publishing.qmd
